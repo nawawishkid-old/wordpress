@@ -21,3 +21,9 @@ $settings->build();
 ?>
 
 ```
+
+
+result as:
+
+
+![Image](screenshot.png?raw=true "Screenshot")
