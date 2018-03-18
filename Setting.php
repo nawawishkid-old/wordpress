@@ -129,7 +129,7 @@ final class Setting {
  * Usage
  */
 /*
-$settings = new Util\Setting( 'nawawish-settings', 'manage_options' );
+$settings = new Setting( 'nawawish-settings', 'manage_options' );
 $settings->add_setting( 'phone' )
 		 ->add_setting( 'address' )
 		 ->add_section( 'general', 'General', 'markup_section_general' )
