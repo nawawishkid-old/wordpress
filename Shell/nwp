@@ -1,6 +1,11 @@
 #!/usr/bin/env php
 <?php
 
+const PACKAGE_PATH = 'wp-content/plugins/nwp/inc/NWP/';
+
+require_once PACKAGE_PATH . 'Shell.php';
+require_once PACKAGE_PATH . 'NWP.php';
+
 echo
 
 ?>

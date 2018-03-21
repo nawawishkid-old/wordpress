@@ -1,5 +1,5 @@
 <?php
-namespace NawawishWP;
+namespace NWP;
 /**
  * Init function
  */
