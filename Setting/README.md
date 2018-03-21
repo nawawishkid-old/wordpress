@@ -1,6 +1,6 @@
 # Wordpress Setting
 
-Create custom setting (WP Option) in OOP style. Currently just a WordPress Setting API in OOP style. Not much difference. I will develop more feature later.
+Create custom setting (WP Option) in OOP style. Currently just a WordPress Setting API in OOP style. Not much differences from the original API, just in OOP way. I will develop more feature later.
 
 ## Features
 **Current Features**
