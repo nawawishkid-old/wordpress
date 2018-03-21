@@ -17,7 +17,7 @@ Create custom setting (WP Option) in OOP style. Currently just a WordPress Setti
 $settings->add_field( 'phone', 'Phone number', 'general', function() { echo '<input...'; } );
 
 ```
-- [ ] Just give HTML Form Element type as an argument, make writing HTML in callback unnecessary.
+- [ ] Just give HTML Form Element type as an argument to produce the HTML Element, make writing HTML in callback unnecessary.
   
   
 ## Example Usage
